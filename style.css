@@ -1,0 +1,29 @@
+* {
+    background-color: rgba(165, 106, 42, 0.507);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; 
+   margin:0;
+   padding:0;
+}
+
+.container{
+    background-color: rgba(128, 115, 0, 0.593);
+    text-align: center;
+}
+
+.contact{
+    background-color: rgba(128, 115, 0, 0.593);
+    text-align: center;
+}
+
+.font{
+    font-size: 25px;
+    text-align: center;
+}
+
+#font{
+    font-size: 25px;
+}
+
+#bio{
+    text-align: center;
+}
